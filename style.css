@@ -19,3 +19,10 @@ section {
   border-radius: 40px;
 }
 
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
